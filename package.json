@@ -1,0 +1,12 @@
+{
+  "name": "jp.netsis.sceneviewcamerabookmark",
+  "version": "1.0.0",
+  "displayName": "SceneViewCameraBookmark",
+  "description": "This is an SceneView Camera Bookmark package",
+  "unity": "2020.3",
+  "author": {
+    "name": "netsis",
+    "email": "info@netsis.jp",
+    "url": "https://netsis.jp/"
+  }
+}
