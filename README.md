@@ -42,7 +42,7 @@ Select [Menu -> Window -> SceneViewCamera GUI]
 
 * (4). A new button was created by saving. This index is selected in the dropdown and corresponds to keyboard shortcut keys.
 
-![Example](https://github.com/jp-netsis/SceneViewCameraBookmark/blob/main/Screenshots/Save1.jpg)
+![Example](https://github.com/jp-netsis/SceneViewCameraBookmark/blob/main/Screenshots/Saved1.jpg)
 
 * (5). If you press the button or shortcut key, the camera will be in the saved state.
 
