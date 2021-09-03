@@ -12,6 +12,19 @@ Keyboard Shortcut Win/Mac Shift/Cmd + 0-9
 
 ## Scene Camera View Direct Input Field.
 
+### Install via UPM (using Git URL)
+
+1. Navigate to your project's Packages folder and open the manifest.json file.
+2. Add this line below the "dependencies": { line
+    - ```json title="Packages/manifest.json"
+      "jp.netsis.sceneviewcamerabookmark": "https://github.com/jp-netsis/SceneViewCameraBookmark.git",
+      ```
+3. UPM should now install the package.
+
+### Install manually
+
+1. Download Files.
+2. Add to Your Unity Project Asset Folder.
 
 # How To Use
 * (1). Show 'Scene View Camera' Window
