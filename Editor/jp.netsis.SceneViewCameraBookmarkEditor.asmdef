@@ -1,0 +1,18 @@
+{
+    "name": "jp.netsis.SceneViewCameraBookmarkEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d4bf32a0805bbd34b81eb1c9e182a7fd"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
